@@ -1,0 +1,154 @@
+body{
+    background-color:rgba(0, 0, 0, 0.75);
+    margin-top: 10px;
+    margin-bottom:10px;
+    margin-left:5px;
+    margin-right:5px;
+    font-family: verdana, Georgia, serif;
+    font-size: 14px;
+
+}
+
+#header {
+    background-color:rgba(12, 3, 3, 0.9);
+    margin: 10px;
+    height: 90px;
+    width: auto;
+    font-weight: bold;
+    font-size: 50px;
+    color: #eee;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+#navbar {
+    margin: 10px;
+    padding:0;
+    overflow: hidden;
+    height: 35px;
+    width: 1452px;
+    border-radius: 5px;
+    list-style-type: none;
+}
+
+a:link, a:visited{
+    display: block;
+    font-weight: bold;
+    color: white;
+    background-color: darkgoldenrod;
+    width: 353px;
+    text-align: center;
+    padding: 5px;
+    text-transform: uppercase;
+    text-decoration: none;
+
+
+}
+
+a:hover,a:active{
+    background-color: #d6d69ef0;
+    
+}
+
+li{
+    float: left;
+    
+}
+
+
+.main {
+    background-color: #0b166599;
+    margin-right: 320px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 110%;
+    color: #ffffff;
+    height: 700px;
+    width: 1092px;
+
+}
+
+.article {
+    background-color: #9494b8;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 100%;
+
+   
+}
+
+.main1 {
+    background-color: #fff9ccf0;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 110%;
+
+    
+}
+
+h1{
+    font-size: 120%;
+    border-radius: 5px;
+    margin: auto;
+   
+    color:#800000;
+}
+
+
+.main2 {
+    background-color: #fff9ccf0;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+
+#c{
+    font-size: 160%;
+    font-weight: bold;
+    margin: auto;
+}
+
+.footer {
+    background-color:#eee;
+    margin: auto;
+    height: 80px;
+    width: 1435px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 110%;
+}
+
+#text{
+    font-size: 110%;
+    color: #000080;
+
+}
+
+h2{
+    font-size: 120%;
+    color: darkblue;
+}
+
+.sideright {
+    background-color: #fff9ccf0;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 105%;
+    float: right;
+    width: 260px;
+    height: 690px;
+  
+
+}
+
